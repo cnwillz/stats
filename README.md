@@ -1,3 +1,7 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cnwillz&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cnwillz&count_private=true&show_icons=true)]()
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=cnwillz&theme=onedark)]()
+
 
 ![Profile views](https://komarev.com/ghpvc/?username=cnwillz)
