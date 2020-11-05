@@ -5,6 +5,8 @@ on:
   # (optional) Force update a commit occurs on master branch
   # All commits tagged with [Skip GitHub Action] are automatically ignored by this GitHub action to avoid loops
   push: {branches: "master"}
+  workflow_dispatch:
+  
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
