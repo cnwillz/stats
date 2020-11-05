@@ -12,3 +12,8 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=cnwillz)
 
+
+Random jokes:
+
+[![Jokes Card](https://readme-jokes.vercel.app/api)](https://github.com/ABSphreak/readme-jokes)
+
