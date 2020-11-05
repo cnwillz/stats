@@ -16,14 +16,34 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           # See https://github.com/lowlighter/metrics/blob/master/action.yml for all options
-          plugin_lines: yes
-          plugin_traffic: yes
-          plugin_habits: yes
-          plugin_habits_from: 100
-          plugin_followup: yes
-          plugin_languages: yes
-          plugin_selfskip: yes
       - uses: lowlighter/metrics@latest
         with:
           # ... other options
           plugin_isocalendar: yes
+      - uses: lowlighter/metrics@latest
+        with:
+          # ... other options
+          plugin_lines: yes
+      - uses: lowlighter/metrics@latest
+        with:
+          # token with "repo" rights
+          token: ${{ secrets.METRICS_TOKEN }}
+          # ... other options
+          plugin_traffic: yes
+      - uses: lowlighter/metrics@latest
+        with:
+          # ... other options
+          plugin_habits: yes
+          plugin_habits_from: 100
+      - uses: lowlighter/metrics@latest
+        with:
+          # ... other options
+          plugin_followup: yes
+      - uses: lowlighter/metrics@latest
+        with:
+          # ... other options
+          plugin_languages: yes
+      - uses: lowlighter/metrics@latest
+        with:
+          # ... other options
+          plugin_selfskip: yes
