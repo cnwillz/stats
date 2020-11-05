@@ -7,7 +7,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=cnwillz&theme=flat)]()
 
 
-![GitHub metrics](https://github.com/cnwillz/cnwillz/blob/master/github-metrics.svg)
+![GitHub metrics](https://raw.githubusercontent.com/cnwillz/cnwillz/main/github-metrics.svg)
 
 
 <!--START_SECTION:activity-->
