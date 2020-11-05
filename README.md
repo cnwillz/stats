@@ -18,7 +18,7 @@ Random jokes:
 [![Jokes Card](https://readme-jokes.vercel.app/api)](https://github.com/ABSphreak/readme-jokes)
 
 
-Random memes:
+<!--Random memes:
 
-[![Memes](https://random-memer.herokuapp.com/)](https://github.com/techytushar/random-memer)
+<!--[![Memes](https://random-memer.herokuapp.com/)](https://github.com/techytushar/random-memer)
 
