@@ -7,4 +7,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=cnwillz&theme=flat)]()
 
 
+![Visitor Count](https://profile-counter.glitch.me/cnwillz/count.svg)
+
+
 ![Profile views](https://komarev.com/ghpvc/?username=cnwillz)
+
