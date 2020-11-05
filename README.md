@@ -7,6 +7,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=cnwillz&theme=flat)]()
 
 
+![GitHub metrics](https://github.com/cnwillz/cnwillz/blob/master/github-metrics.svg)
+
+
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#22](https://github.com/fairygui/FairyGUI-egret/issues/22) in [fairygui/FairyGUI-egret](https://github.com/fairygui/FairyGUI-egret)
 2. 🗣 Commented on [#22](https://github.com/fairygui/FairyGUI-egret/issues/22) in [fairygui/FairyGUI-egret](https://github.com/fairygui/FairyGUI-egret)
