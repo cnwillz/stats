@@ -1,7 +1,7 @@
 name: GitHub metrics as SVG image
 on:
   # Schedule the metrics update
-  schedule: [{cron: "0 * * * *"}]
+  schedule: [{cron: "0 0 * * *"}]
   # (optional) Force update a commit occurs on master branch
   # All commits tagged with [Skip GitHub Action] are automatically ignored by this GitHub action to avoid loops
   push: {branches: "master"}
